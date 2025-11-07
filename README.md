@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kjamesxyz
-- 👀 I’m interested in applied mathematics, and science as a whole
-- 🌱 I’m currently learning Inverse Runge Kutte methods
+- 👀 I’m interested in applied mathematics and science as a whole
+- 🌱 I’m currently learning Implicit Runge Kutte methods
 - 💞️ I’m looking to collaborate on high-performance computing related to numerical solutions to partial differential equations
-- 📫 You can reach me at kohl.james@ttu.edu
+- 📫 You can reach me at kjames13@svsu.edu
 
 <!---
 kjamesxyz/kjamesxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
