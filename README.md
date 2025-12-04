@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kjamesxyz
 - 👀 I’m interested in applied mathematics and science as a whole
-- 🌱 I’m currently learning Implicit Runge Kutte methods
+- 🌱 I’m currently learning best practices for scientific software design and R.
 - 💞️ I’m looking to collaborate on high-performance computing related to numerical solutions to partial differential equations
 - 📫 You can reach me at kjames13@svsu.edu
 
